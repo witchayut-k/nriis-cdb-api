@@ -10,7 +10,7 @@ var database = {
     contact: "",
 };
 
-for (let i=1; i<=100; i++) {
+for (let i=1; i<=30; i++) {
   database.research.push({
     id: i,
     title: faker.lorem.word(),
