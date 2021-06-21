@@ -1,0 +1,12 @@
+# React.js
+src/**/build/
+src/**/node_modules/
+src/**/jspm_packages/
+src/**/dist/
+src/**/typings/
+**/build/
+**/node_modules/
+**/jspm_packages/
+**/dist/
+**/typings/
+ 
